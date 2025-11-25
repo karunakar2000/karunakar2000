@@ -36,14 +36,14 @@ These projects are available below and reflect real enterprise CI/CD + Kubernete
 
 ---
 
-###  Featured Repositories
+###  Repositories
 
-| Project | Description |
+| Projects | Description |
 |--------|-------------|
 | 🔹 `banking-ado-k8s-argocd` | **Azure DevOps → Docker → Helm → AKS → Argo CD GitOps** (DevSecOps pipeline with Sonar + Trivy + ZAP) |
 | 🔹 `aviva-jenkins-eks-devops` | **Jenkins → Terraform → Ansible → Docker → EKS** (infrastructure + CI/CD + monitoring) |
 
-> Both repositories are structured exactly like real-world enterprise DevOps projects — not tutorial/demo layouts.
+> Both repositories are structured exactly like real-world enterprise DevOps /DevSecOps projects — Based on real world Projects 
 
 ---
 
