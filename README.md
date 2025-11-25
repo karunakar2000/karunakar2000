@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Karunakar – Cloud / DevSecOps Engineer
 
 I build secure, automated, and scalable cloud platforms using **AWS, Azure, Kubernetes, Terraform, and CI/CD**.  
-My work focuses on automation, security, performance, and reliability — helping teams deliver software faster and safer.
+My work focuses on automation, security, performance, and reliability,  helping teams deliver software faster and safer.
 
 ---
 
@@ -47,7 +47,7 @@ These projects are available below and reflect real enterprise CI/CD + Kubernete
 
 ---
 
-### GitHub Stats
+### GitHub Stats:                                                                                           
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="160px"/>
