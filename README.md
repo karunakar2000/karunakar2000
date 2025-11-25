@@ -5,7 +5,7 @@ My work focuses on automation, security, performance, and reliability — helpin
 
 ---
 
-### 🔧 Technologies I work with
+### Technologies I work with
 
 **Cloud & Infra**
 AWS · Azure · VPC · IAM · EC2 · S3 · CloudWatch · Load Balancers · Networking
@@ -24,7 +24,7 @@ Prometheus · Grafana · Loki · CloudWatch
 
 ---
 
-### 🚀 What I’ve been working on lately
+###  What I’ve been working on lately
 
 🔹 **DTB Bank – Cloud DevSecOps Platform on Azure DevOps + AKS + Argo CD**  
 Enterprise CI/CD with security gates, containerized Spring Boot workloads, GitOps automation on AKS, and multi-cloud infra through Terraform.
@@ -36,7 +36,7 @@ These projects are available below and reflect real enterprise CI/CD + Kubernete
 
 ---
 
-### 📌 Featured Repositories
+###  Featured Repositories
 
 | Project | Description |
 |--------|-------------|
@@ -75,9 +75,9 @@ These projects are available below and reflect real enterprise CI/CD + Kubernete
 
 ###  Let’s connect
 
-🔗 LinkedIn: *add your link here*  
-🌍 Portfolio / Projects: GitHub repos pinned above  
-📫 Email: *your email address*
+🔗 LinkedIn: *www.linkedin.com/in/karunakar-thatipally-4b3321397*  
+🌍 Portfolio / Projects: https://github.com/karunakar2000
+📫 Email: k7rt2020@gmail.com
 
 ---
 
