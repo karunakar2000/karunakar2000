@@ -11,6 +11,9 @@ My work focuses on automation, security, performance, and reliability,  helping 
 ![Azure](https://img.shields.io/badge/Microsoft-Azure%20Administrator%20Associate-blue?logo=microsoft-azure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/HashiCorp-Terraform%20Associate-623CE4?logo=terraform&logoColor=white)
 
+https://www.credly.com/users/karunakar-thatipally/badges#credly
+https://learn.microsoft.com/en-us/users/karunakar-0331/credentials/a4c880cfa5b8591
+
 ---
 
 ### Technologies I work with
