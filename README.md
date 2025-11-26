@@ -1,7 +1,15 @@
-# 👋 Hi, I'm Karunakar – Cloud / DevSecOps Engineer
+#  Hi, This is Karunakar – Cloud / DevSecOps Engineer:-
 
 I build secure, automated, and scalable cloud platforms using **AWS, Azure, Kubernetes, Terraform, and CI/CD**.  
 My work focuses on automation, security, performance, and reliability,  helping teams deliver software faster and safer.
+
+---
+
+## 🏆 Certifications
+
+![AWS](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-orange?logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft-Azure%20Administrator%20Associate-blue?logo=microsoft-azure&logoColor=white)
+![Terraform](https://img.shields.io/badge/HashiCorp-Terraform%20Associate-623CE4?logo=terraform&logoColor=white)
 
 ---
 
@@ -14,7 +22,7 @@ AWS · Azure · VPC · IAM · EC2 · S3 · CloudWatch · Load Balancers · Netwo
 Jenkins · Azure DevOps · GitHub Actions · Docker · Kubernetes (EKS/AKS) · Helm · Argo CD · GitOps · Terraform · Ansible
 
 **Security**
-SonarQube (SAST) · Trivy (image scanning) · IAM/RBAC · Vault/secure secrets · SSL/TLS · OWASP ZAP
+SonarQube (SAST) · Trivy (image scanning) · IAM/RBAC · Vault/Secure Secrets · SSL/TLS · OWASP ZAP
 
 **Programming & Scripting**
 Java · Maven · Bash · Python · YAML · REST API
@@ -70,14 +78,6 @@ These projects are available below and reflect real enterprise CI/CD + Kubernete
   <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
   <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
 </p>
-
----
-
-## 🏆 Certifications
-
-![AWS](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-orange?logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft-Azure%20Administrator%20Associate-blue?logo=microsoft-azure&logoColor=white)
-![Terraform](https://img.shields.io/badge/HashiCorp-Terraform%20Associate-623CE4?logo=terraform&logoColor=white)
 
 
 ---
