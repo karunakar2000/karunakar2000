@@ -90,7 +90,7 @@ These projects are available below and reflect real enterprise CI/CD + Kubernete
 
 ###  Let’s connect
 
-🔗 LinkedIn: *www.linkedin.com/in/karunakar-thatipally-4b3321397*                                                        
+🔗 LinkedIn: *www.linkedin.com/in/karunakar2000*                                                        
 🌍 Portfolio / Projects: *https://github.com/karunakar2000*                                                         
 📫 Email: *k7rt2020@gmail.com*                                                                                          
 
