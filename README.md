@@ -80,7 +80,7 @@ Both projects reflect **real enterprise DevOps & Kubernetes delivery pipelines**
 ---
 
 
-# 🛠️ **Tools I Use**
+# **Tools I Use**
 
 <p align="left">
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
