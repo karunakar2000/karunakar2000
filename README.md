@@ -10,6 +10,8 @@ My work focuses on automation, security, performance, and reliability,  helping 
 ![AWS](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-orange?logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft-Azure%20Administrator%20Associate-blue?logo=microsoft-azure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/HashiCorp-Terraform%20Associate-623CE4?logo=terraform&logoColor=white)
+![AWS DevOps Engineer – Professional](https://img.shields.io/badge/AWS%20DevOps%20Pro-Certified-orange?style=flat&logo=amazonaws)
+
 
 ---
 # URL
