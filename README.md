@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,100:00bfff&height=220&section=header&text=Karunakar%20Thatipally&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Cloud%20%7C%20DevSecOps%20Engineer&descAlignY=55"/>
 </p>
 
-# 👋 Hi, I'm **Karunakar – Cloud / DevSecOps Engineer**
+# Hi, I'm **Karunakar – Cloud / DevSecOps Engineer**
 
 I build secure, automated, and scalable cloud platforms using **AWS, Azure, Kubernetes, Terraform, DevSecOps, and CI/CD**.  
 My focus: **automation · security · high availability · performance · observability** — enabling efficient & safe software delivery.
@@ -27,19 +27,32 @@ My focus: **automation · security · high availability · performance · observ
 # **Technologies I Work With**
 
 ### **Cloud & Infrastructure**
-AWS · Azure · VPC · IAM · EC2 · S3 · CloudWatch · Route53 · Load Balancers · Networking
+AWS (EC2, S3, RDS, IAM, VPC, CloudTrail, Config, ECR, KMS, CloudWatch & EKS AutoScaling), Azure (VMs, Blob Storage, Azure Key Vault, Azure Policies & VNets, Monitor)
 
-### **DevOps & Platform Engineering**
-Jenkins · Azure DevOps · GitHub Actions · Docker · Kubernetes (EKS/AKS) · Helm · Argo CD · GitOps · Terraform · Ansible
+### **CI/CD Tools**
+Jenkins (Declarative & Multistage), GitHub Actions, Azure DevOps
 
-### **Security (DevSecOps)**
-SonarQube · Trivy · OWASP ZAP · IAM/RBAC · HashiCorp Vault · SSL/TLS · SAST/DAST · Secrets Management
+### **Infrastructure Automation**
+Terraform, Packer, Ansible, CloudFormation (Infrastructure as Code & Configuration Management)
+
+### **Containers & Kubernetes**
+Docker, Kubernetes (EKS/AKS), Autoscaling (HPA/KEDA), Cluster Autoscaler, Helm, Argo CD (GitOps), Microservices Deployments
+
+### **DevSecOps & Security**
+CIS Benchmarks, NIST CSF, OPA/Conftest, SonarQube (SAST), Snyk (SCA/IaC Scan), Trivy (Image Scan), JFrog Artifactory, HashiCorp Vault, Secrets Management & RBAC/IAM Policies
+
+### **Monitoring & Observability**
+Prometheus, Grafana, Loki, CloudWatch, and ELK Stack. (for Metrics, Dashboards, and Centralized Logging)
+
+### **Networking & Security**
+VPCs, Subnets, Load Balancers, Firewalls, VPNs, WAF, Route53, NSGs
+
+### **Version Control**
+Git, GitHub, GitLab (GitFlow & Trunk-Based Development)
 
 ### **Programming & Scripting**
 Python · Bash · YAML · REST API · Maven · Java
 
-### **Monitoring & Observability**
-Prometheus · Grafana · Loki · ELK · CloudWatch
 
 ---
 
@@ -66,14 +79,6 @@ Both projects reflect **real enterprise DevOps & Kubernetes delivery pipelines**
 
 ---
 
-# 📊 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karunakar2000&show_icons=true&theme=tokyonight" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karunakar2000&layout=compact&theme=tokyonight" height="170px"/>
-</p>
-
----
 
 # 🛠️ **Tools I Use**
 
