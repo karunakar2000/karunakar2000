@@ -12,11 +12,26 @@ My focus: **automation · security · high availability · performance · observ
 
 # 🏆 **Certifications**
 
+
+
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft-Azure%20Administrator%20Associate-blue?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-Associate-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS%20DevOps%20Engineer-Professional-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+  <!-- AWS Solutions Architect Associate -->
+  <img src="https://images.credly.com/size/220x220/images/0e3a6d33-3cee-4fcf-916a-1c82b4f10abb/image.png" 
+       width="120" height="120" alt="AWS SAA Badge"/>
+
+  <!-- AWS DevOps Engineer – Professional -->
+  <img src="https://images.credly.com/size/220x220/images/b8d3cc0b-ef37-4cda-9cd4-28bf90d3a468/image.png" 
+       width="120" height="120" alt="AWS DevOps Pro Badge"/>
+
+  <!-- Microsoft Azure Administrator Associate -->
+  <img src="https://images.credly.com/size/220x220/images/336e5a79-c2f2-4d3d-9b96-a1e486d1d188/azure-administrator-associate-600x600.png" 
+       width="120" height="120" alt="Azure Admin Badge"/>
+
+  <!-- Terraform Associate -->
+  <img src="https://images.credly.com/size/220x220/images/99289602-3c3d-4f3a-9e9b-25f6b1eba62b/image.png" 
+       width="120" height="120" alt="Terraform Associate Badge"/>
+
 </p>
 
 🔗 **Credly:** https://www.credly.com/users/karunakar-thatipally/badges  
@@ -24,26 +39,26 @@ My focus: **automation · security · high availability · performance · observ
 
 ---
 
-# 🧰 **Technologies I Work With**
+# **Technologies I Work With**
 
-### ☁ **Cloud & Infrastructure**
+### **Cloud & Infrastructure**
 AWS · Azure · VPC · IAM · EC2 · S3 · CloudWatch · Route53 · Load Balancers · Networking
 
-### ⚙️ **DevOps & Platform Engineering**
+### **DevOps & Platform Engineering**
 Jenkins · Azure DevOps · GitHub Actions · Docker · Kubernetes (EKS/AKS) · Helm · Argo CD · GitOps · Terraform · Ansible
 
-### 🔐 **Security (DevSecOps)**
+### **Security (DevSecOps)**
 SonarQube · Trivy · OWASP ZAP · IAM/RBAC · HashiCorp Vault · SSL/TLS · SAST/DAST · Secrets Management
 
-### 🧑‍💻 **Programming & Scripting**
+### **Programming & Scripting**
 Python · Bash · YAML · REST API · Maven · Java
 
-### 📈 **Monitoring & Observability**
+### **Monitoring & Observability**
 Prometheus · Grafana · Loki · ELK · CloudWatch
 
 ---
 
-# 🚀 **What I’ve Been Working On**
+# **What I’ve Been Working On**
 
 🔹 **DTB Bank – Cloud DevSecOps Platform**  
 Azure DevOps → Docker → Helm → AKS → Argo CD GitOps  
@@ -56,13 +71,13 @@ Both projects reflect **real enterprise DevOps & Kubernetes delivery pipelines**
 
 ---
 
-# 📂 **Highlighted Repositories**
+# **Highlighted Repositories**
 
 | Project | Description |
 |--------|-------------|
 | 🔹 `dtb-banking-ado-k8s-argocd-project` | Azure DevOps → Docker → Helm → AKS → Argo CD (DevSecOps Automated Pipeline) |
 | 🔹 `aviva-financial-jenkins-eks-project` | Jenkins → Terraform → Ansible → Docker → EKS (Enterprise CI/CD + Infra as Code) |
-| 🔹 `colorful-flask-devops-app` | Flask + Docker interactive UI app (CI/CD demo) |
+| 🔹 `sample-flask-devops-app` | Flask + Docker interactive UI app (CI/CD demo) |
 
 ---
 
