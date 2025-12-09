@@ -12,26 +12,11 @@ My focus: **automation · security · high availability · performance · observ
 
 # 🏆 **Certifications**
 
-
-
 <p align="left">
-
-  <!-- AWS Solutions Architect Associate -->
-  <img src="https://images.credly.com/size/220x220/images/0e3a6d33-3cee-4fcf-916a-1c82b4f10abb/image.png" 
-       width="120" height="120" alt="AWS SAA Badge"/>
-
-  <!-- AWS DevOps Engineer – Professional -->
-  <img src="https://images.credly.com/size/220x220/images/b8d3cc0b-ef37-4cda-9cd4-28bf90d3a468/image.png" 
-       width="120" height="120" alt="AWS DevOps Pro Badge"/>
-
-  <!-- Microsoft Azure Administrator Associate -->
-  <img src="https://images.credly.com/size/220x220/images/336e5a79-c2f2-4d3d-9b96-a1e486d1d188/azure-administrator-associate-600x600.png" 
-       width="120" height="120" alt="Azure Admin Badge"/>
-
-  <!-- Terraform Associate -->
-  <img src="https://images.credly.com/size/220x220/images/99289602-3c3d-4f3a-9e9b-25f6b1eba62b/image.png" 
-       width="120" height="120" alt="Terraform Associate Badge"/>
-
+  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft-Azure%20Administrator%20Associate-blue?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-Associate-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20DevOps%20Engineer-Professional-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
 🔗 **Credly:** https://www.credly.com/users/karunakar-thatipally/badges  
