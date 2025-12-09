@@ -1,78 +1,81 @@
-#  Hi, This is Karunakar – Cloud / DevSecOps Engineer:-
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,100:00bfff&height=220&section=header&text=Karunakar%20Thatipally&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Cloud%20%7C%20DevSecOps%20Engineer&descAlignY=55"/>
+</p>
 
-I build secure, automated, and scalable cloud platforms using **AWS, Azure, Kubernetes, Terraform, and CI/CD**.  
-My work focuses on automation, security, performance, and reliability,  helping teams deliver software faster and safer.
+# 👋 Hi, I'm **Karunakar – Cloud / DevSecOps Engineer**
 
----
-
-## 🏆 Certifications
-
-![AWS](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-orange?logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft-Azure%20Administrator%20Associate-blue?logo=microsoft-azure&logoColor=white)
-![Terraform](https://img.shields.io/badge/HashiCorp-Terraform%20Associate-623CE4?logo=terraform&logoColor=white)
-![AWS DevOps Engineer – Professional](https://img.shields.io/badge/AWS%20DevOps%20Pro-Certified-orange?style=flat&logo=amazonaws)
-
-
----
-# URL
-https://www.credly.com/users/karunakar-thatipally/badges#credly                                                                 
-
-https://learn.microsoft.com/en-us/users/karunakar-0331/credentials/a4c880cfa5b8591                                                  
+I build secure, automated, and scalable cloud platforms using **AWS, Azure, Kubernetes, Terraform, DevSecOps, and CI/CD**.  
+My focus: **automation · security · high availability · performance · observability** — enabling efficient & safe software delivery.
 
 ---
 
-### Technologies I work with
+# 🏆 **Certifications**
 
-**Cloud & Infra**
-AWS · Azure · VPC · IAM · EC2 · S3 · CloudWatch · Load Balancers · Networking
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft-Azure%20Administrator%20Associate-blue?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-Associate-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20DevOps%20Engineer-Professional-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
 
-**DevOps & Platform Engineering**
+🔗 **Credly:** https://www.credly.com/users/karunakar-thatipally/badges  
+🔗 **Microsoft Certifications:** https://learn.microsoft.com/en-us/users/karunakar-0331/credentials/a4c880cfa5b8591
+
+---
+
+# 🧰 **Technologies I Work With**
+
+### ☁ **Cloud & Infrastructure**
+AWS · Azure · VPC · IAM · EC2 · S3 · CloudWatch · Route53 · Load Balancers · Networking
+
+### ⚙️ **DevOps & Platform Engineering**
 Jenkins · Azure DevOps · GitHub Actions · Docker · Kubernetes (EKS/AKS) · Helm · Argo CD · GitOps · Terraform · Ansible
 
-**Security**
-SonarQube (SAST) · Trivy (image scanning) · IAM/RBAC · Vault/Secure Secrets · SSL/TLS · OWASP ZAP
+### 🔐 **Security (DevSecOps)**
+SonarQube · Trivy · OWASP ZAP · IAM/RBAC · HashiCorp Vault · SSL/TLS · SAST/DAST · Secrets Management
 
-**Programming & Scripting**
-Java · Maven · Bash · Python · YAML · REST API
+### 🧑‍💻 **Programming & Scripting**
+Python · Bash · YAML · REST API · Maven · Java
 
-**Monitoring & Observability**
-Prometheus · Grafana · Loki · CloudWatch
-
----
-
-###  What I’ve been working on lately
-
-🔹 **DTB Bank – Cloud DevSecOps Platform on Azure DevOps + AKS + Argo CD**  
-Enterprise CI/CD with security gates, containerized Spring Boot workloads, GitOps automation on AKS, and multi-cloud infra through Terraform.
-
-🔹 **Aviva Financial Project – Jenkins + EKS + Terraform + Docker**  
-Jenkins multistage pipelines deploying containerized applications to Amazon EKS with Packer-built AMIs, Auto Scaling, CloudWatch logging, and monitoring.
-
-These projects are available below and reflect real enterprise CI/CD + Kubernetes implementations.
+### 📈 **Monitoring & Observability**
+Prometheus · Grafana · Loki · ELK · CloudWatch
 
 ---
 
-###  Repositories
+# 🚀 **What I’ve Been Working On**
 
-| Projects | Description |
+🔹 **DTB Bank – Cloud DevSecOps Platform**  
+Azure DevOps → Docker → Helm → AKS → Argo CD GitOps  
+Includes SonarQube checks, Trivy image scanning, ZAP security automation.
+
+🔹 **Aviva Financial Project – Jenkins + EKS**  
+Jenkins multistage pipelines → Terraform infra → Packer AMIs → Ansible → EKS deployments → Monitoring stack.
+
+Both projects reflect **real enterprise DevOps & Kubernetes delivery pipelines**.
+
+---
+
+# 📂 **Highlighted Repositories**
+
+| Project | Description |
 |--------|-------------|
-| 🔹 `dtb-banking-ado-k8s-argocd-project` | **Azure DevOps -> Docker -> Helm -> AKS -> Argo CD GitOps** (DevSecOps pipeline with Sonar + Trivy + ZAP) |
-| 🔹 `aviva-financial-jenkins-eks-project` | **Jenkins -> Terraform -> Ansible -> Docker -> EKS** (infrastructure + CI/CD + monitoring) |
-
-> Both repositories are structured exactly like real-world enterprise DevOps /DevSecOps projects — Based on real world Projects 
+| 🔹 `dtb-banking-ado-k8s-argocd-project` | Azure DevOps → Docker → Helm → AKS → Argo CD (DevSecOps Automated Pipeline) |
+| 🔹 `aviva-financial-jenkins-eks-project` | Jenkins → Terraform → Ansible → Docker → EKS (Enterprise CI/CD + Infra as Code) |
+| 🔹 `colorful-flask-devops-app` | Flask + Docker interactive UI app (CI/CD demo) |
 
 ---
 
-### GitHub Stats:                                                                                           
+# 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=karunakar2000&show_icons=true&theme=tokyonight" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karunakar2000&layout=compact&theme=tokyonight" height="170px"/>
 </p>
 
 ---
 
-### Tools I use
+# 🛠️ **Tools I Use**
 
 <p align="left">
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
@@ -87,15 +90,20 @@ These projects are available below and reflect real enterprise CI/CD + Kubernete
   <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
 </p>
 
+---
+
+# 🤝 Connect With Me
+
+🔗 **LinkedIn:** www.linkedin.com/in/karunakar2000  
+🌍 **GitHub:** https://github.com/karunakar2000  
+📫 **Email:** k7rt2020@gmail.com  
 
 ---
 
-###  Let’s connect
+<p align="center">
+  <b>“Always learning. Always building. Always improving.”</b>
+</p>
 
-🔗 LinkedIn: *www.linkedin.com/in/karunakar2000*                                                        
-🌍 Portfolio / Projects: *https://github.com/karunakar2000*                                                         
-📫 Email: *k7rt2020@gmail.com*                                                                                          
-
----
-
-**I’m always happy to collaborate on Kubernetes, CI/CD, cloud automation, monitoring & DevSecOps.**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,100:00bfff&height=120&section=footer"/>
+</p>
