@@ -75,7 +75,7 @@ Both projects reflect **real enterprise DevOps & Kubernetes delivery pipelines**
 |--------|-------------|
 | 🔹 `dtb-banking-ado-k8s-argocd-project` | Azure DevOps → Docker → Helm → AKS → Argo CD (DevSecOps Automated Pipeline) |
 | 🔹 `aviva-financial-jenkins-eks-project` | Jenkins → Terraform → Ansible → Docker → EKS (Enterprise CI/CD + Infra as Code) |
-| 
+ 
 ### Both repositories are structured exactly like real-world enterprise DevOps /DevSecOps projects — Based on real world projects.
 
 
