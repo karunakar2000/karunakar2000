@@ -56,7 +56,7 @@ Python · Bash · YAML · REST API · Maven · Java
 
 ---
 
-# **What I’ve Been Working On**
+# **What I’ve been working on lately**
 
 🔹 **DTB Bank – Cloud DevSecOps Platform**  
 Azure DevOps → Docker → Helm → AKS → Argo CD GitOps  
